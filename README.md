@@ -5,21 +5,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="0.8" align="center" />
 
 <h1 align="center">
-  <strong>
-    <span style="font-family: 'Fira Code', monospace; background: linear-gradient(to right, #ff00ff, #00ffff); -webkit-background-clip: text; color: transparent;">
-      Hey, I'm Manibabu DNV 💡
-    </span>
-  </strong>
-</h1>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Hey%20I'm%20Manibabu%20DNV-✨-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-<p align="center">
+  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&height=45&lines=Creative+Coder+%E2%9C%A8;Cloud+%26+Data+Explorer+%F0%9F%9A%80;DevOps+Lover+%E2%9A%99%EF%B8%8F;Design+Driven+Engineer+%F0%9F%8E%A8;Storytelling+with+Data+%F0%9F%93%8A" />
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="0.8" align="center" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manibabu-dnv&label=Profile%20Views&color=2ECf49&style=flat" alt="Profile Views" width="120" height="20" />
 </p>
-
+</h1>
 ---
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
