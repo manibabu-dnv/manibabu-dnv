@@ -31,24 +31,26 @@
   <img src="https://komarev.com/ghpvc/?username=manibabu-dnv&label=Profile%20Views&color=2ECf49&style=flat" alt="Profile Views" width="120" height="20" />
 </p>
 
-<!-- ✅ Removed the horizontal line (---) that was below this -->
+<table>
+  <tr>
+    <!-- Text Column -->
+    <td width="60%" valign="top">
+      <h3>🚀 Who Am I?</h3>
+      <ul>
+        <li>A tech enthusiast blending <strong>code, AI, cloud, and creativity 🎯</strong></li>
+        <li>Currently crafting interactive dashboards, AI automation pipelines, & data projects 🔨</li>
+        <li>Working across domains like <strong>Software, AI/ML, Full Stack, DevOps, and Big Data 🌐</strong></li>
+        <li>Passionate about tools like <strong>Docker, Hive, Jenkins, Tableau, and Linux 📦</strong></li>
+        <li>Self-driven learner always experimenting with real-world datasets and designs 🎓</li>
+        <li>Reach me at: <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com 📫</a></li>
+        <li>Fun fact: I automate things not just for efficiency, but for fun! ⚡😎 </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- Continue with next section -->
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <div>
-    <h3>🚀 Who Am I?</h3>
-    <ul>
-      <li> A tech enthusiast blending <strong>code, AI, cloud, and creativity 🎯</strong></li>
-      <li> Currently crafting interactive dashboards, AI automation pipelines, & data projects🔨</li>
-      <li> Working across domains like <strong>Software, AI/ML, Full Stack, DevOps, and Big Data 🌐</strong></li>
-      <li> Passionate about tools like <strong>Docker, Hive, Jenkins, Tableau, and Linux 📦</strong></li>
-      <li> Self-driven learner always experimenting with real-world datasets and designs🎓</li>
-      <li> Reach me at: <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com 📫</a></li>
-      <li> Fun fact: I automate things not just for efficiency, but for fun! ⚡😎</li>
-  </div>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
-</div>
-
+<!-- Bottom RGB line after About section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 
 ---
 
