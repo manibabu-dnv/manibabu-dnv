@@ -46,8 +46,13 @@
         <li>Fun fact: I automate things not just for efficiency, but for fun! ⚡😎 </li>
       </ul>
     </td>
+    <!-- GIF Column -->
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="260" alt="coding gif" />
+    </td>
   </tr>
 </table>
+
 
 <!-- Bottom RGB line after About section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
