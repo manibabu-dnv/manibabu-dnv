@@ -1,14 +1,22 @@
 <!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
 
+<!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="0.8" align="center" />
 
-<h1 align="center"><strong>Hey there 👋, I'm Manibabu DNV</strong></h1>
+<h1 align="center">
+  <strong>
+    <span style="font-family: 'Fira Code', monospace; background: linear-gradient(to right, #ff00ff, #00ffff); -webkit-background-clip: text; color: transparent;">
+      Hey, I'm Manibabu DNV 💡
+    </span>
+  </strong>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&height=45&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Big+Data+Engineer+%F0%9F%92%BE;Linux+Shell+Scripter+%F0%9F%90%9C;CI%2FCD+Automator+%F0%9F%94%8D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&height=45&lines=Creative+Coder+%E2%9C%A8;Cloud+%26+Data+Explorer+%F0%9F%9A%80;DevOps+Lover+%E2%9A%99%EF%B8%8F;Design+Driven+Engineer+%F0%9F%8E%A8;Storytelling+with+Data+%F0%9F%93%8A" />
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=manibabu-dnv&label=Profile%20Views&color=2ECf49&style=flat" alt="Profile Views" width="120" height="20" />
 </p>
 
@@ -17,18 +25,20 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="380" height="320" align="right">
   <div>
-    <h3>🚀 About Me</h3>
+    <h3>🚀 Who Am I?</h3>
     <ul>
-      <li>🔭 Currently building scalable cloud-native apps and DevOps pipelines</li>
-      <li>🌱 Exploring MongoDB, Kubernetes, and Microservices</li>
-      <li>👯 Open to collaborate on Full Stack, Data Science, DevOps, and Big Data projects</li>
-      <li>💬 Ask me about Java, Python, Hive, Linux, and Docker</li>
-      <li>📫 Reach me at <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com</a></li>
-      <li>⚡ Fun fact: Creative automation meets visual storytelling – a perfect combo for both tech & design! 🎨🛠️</li>
+      <li> A tech enthusiast blending <strong>code, cloud, and creativity 🎯</strong></li>
+      <li> Currently crafting interactive dashboards, automation pipelines & data projects🔨</li>
+      <li> Working across domains like <strong>Full Stack, DevOps, and Big Data 🌐</strong></li>
+      <li> Passionate about tools like <strong>Docker, Hive, Jenkins, Tableau, and Linux 📦</strong></li>
+      <li> Self-driven learner always experimenting with real-world datasets and designs🎓</li>
+      <li> Reach me at: <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com 📫</a></li>
+      <li> Fun fact: I automate things not just for efficiency, but for fun! ⚡😎</li>
     </ul>
     <hr>
   </div>
 </div>
+
 
 ---
 
