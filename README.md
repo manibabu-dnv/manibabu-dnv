@@ -126,11 +126,15 @@
 
 ### 🚀 Featured Projects
 
+<div align="center">
+
 | ⭐ Project | 🚀 Description | ⚙️ Tech Stack |
 |----------|----------------|---------------|
 | 🎮 [Tic Tac Toe Game](https://github.com/manibabu-dnv/tic-tac-toe) | Java GUI Game with pop-up animation and player highlights | Java, Swing |
 | 📊 [Hadoop Word Count](https://github.com/manibabu-dnv/hadoop-wordcount) | MapReduce implementation for word frequency analysis | Java, HDFS |
 | 🐳 [Docker Swarm App](https://github.com/manibabu-dnv/docker-swarm-app) | Microservices using Docker Swarm with CI/CD integration | Docker, Jenkins |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 
