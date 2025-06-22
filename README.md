@@ -21,10 +21,10 @@
     <ul>
       <li>🔭 Currently building scalable cloud-native apps and DevOps pipelines</li>
       <li>🌱 Exploring MongoDB, Kubernetes, and Microservices</li>
-      <li>👯 Open to collaborate on Full Stack, DevOps & Big Data Projects</li>
+      <li>👯 Open to collaborate on Full Stack, Data Science, DevOps, and Big Data projects</li>
       <li>💬 Ask me about Java, Python, Hive, Linux, and Docker</li>
-      <li>📫 Reach me at <a href="mailto:d.n.v.manibabu@gmail.com">manibabu@example.com</a></li>
-      <li>⚡ Fun fact: Automation is addictive ⚙️</li>
+      <li>📫 Reach me at <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com</a></li>
+      <li>⚡ Fun fact: Creative automation meets visual storytelling – a perfect combo for both tech & design! 🎨🛠️</li>
     </ul>
     <hr>
   </div>
