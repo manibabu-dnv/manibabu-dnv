@@ -57,31 +57,58 @@
 <!-- Bottom RGB line after About section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 
----
 
 ### 🧰 Tech Toolbox
 
+<!-- Top Skill Row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,docker,kubernetes,git,linux,mysql,oracle,html,css,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,mysql,git,docker,kubernetes,linux" />
 </p>
 
+<!-- Second Row -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hive/hive-original.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,figma,photoshop,jenkins" />
+
+  <!-- Hadoop -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" style="margin-left: 10px;" />
+
+  
+
+  <!-- Tableau (compact & official) -->
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48" alt="Tableau" />
+
+  <!-- Canva -->
+  <img src="https://img.icons8.com/color/48/000000/canva.png" width="48" height="48" alt="Canva" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 
-### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/manibabu-dnv" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="70" /></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitterx--v1.png" width="70" /></a>
-  <a href="mailto:manibabu@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="70" /></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/manibabu-dnv" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="70" alt="LinkedIn" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:d.n.v.manibabu@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="70" alt="Gmail" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/qr/5BV5CIZFTT4MC1" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="70" alt="WhatsApp" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/mbixel.design" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="70" alt="Instagram" />
+  </a>
 </p>
 
----
+<!-- Bottom RGB Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
+
 
 ### 🏆 GitHub Trophies
 
@@ -89,7 +116,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=manibabu-dnv&theme=gruvbox&column=7&margin-w=15" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
+
 
 ### 🚀 Featured Projects
 
@@ -99,7 +127,8 @@
 | 📊 [Hadoop Word Count](https://github.com/manibabu-dnv/hadoop-wordcount) | MapReduce implementation for word frequency analysis | Java, HDFS |
 | 🐳 [Docker Swarm App](https://github.com/manibabu-dnv/docker-swarm-app) | Microservices using Docker Swarm with CI/CD integration | Docker, Jenkins |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
+
 
 ### 📈 GitHub Stats & Activity
 
@@ -112,17 +141,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manibabu-dnv&theme=tokyonight" height="170"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 
-### 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manibabu-dnv/Manibabu-dnv/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manibabu-dnv/Manibabu-dnv/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Manibabu-dnv/Manibabu-dnv/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 ### 🎨 Activity Graph
 
@@ -130,7 +150,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manibabu-dnv&theme=dracula&area=true&color=ff69b4&line=00bfff&point=ffffff" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
+
 
 ### 💬 Quote of the Day
 
