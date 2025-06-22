@@ -146,7 +146,7 @@
 ### 🎨 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manibabu-dnv&theme=react&area=true&area_color=FF00FF&color=00FFFF&point=FFFFFF&line=00FFD1" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=manibabu-dnv&theme=react&area=true&area_color=FF00FF&color=00FFFF&point=FFFFFF&line=00FFD1" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
