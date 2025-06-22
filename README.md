@@ -1,23 +1,34 @@
 <!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
 
-<!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
-
-<h1 align="center">
- <p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Hey%20I'm%20Manibabu%20DNV-✨-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&height=45&lines=Creative+Coder+%E2%9C%A8;Cloud+%26+Data+Explorer+%F0%9F%9A%80;DevOps+Lover+%E2%9A%99%EF%B8%8F;Design+Driven+Engineer+%F0%9F%8E%A8;Storytelling+with+Data+%F0%9F%93%8A" />
-</p>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="0.1" align="center" />
+<!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
 
+<!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
+
+<!-- RGB Line -->
+<!-- Top RGB Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
+
+<!-- Name Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hey%20I'm%20Manibabu%20DNV-✨-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<!-- Typing Intro Text and Bottom RGB Line (merged tightly) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&height=45&lines=Creative+Coder+%E2%9C%A8;Cloud+%26+Data+Explorer+%F0%9F%9A%80;DevOps+Lover+%E2%9A%99%EF%B8%8F;Design+Driven+Engineer+%F0%9F%8E%A8;Storytelling+with+Data+%F0%9F%93%8A" /><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="0.5" align="center" />
+</p>
+
+<!-- Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manibabu-dnv&label=Profile%20Views&color=2ECf49&style=flat" alt="Profile Views" width="120" height="20" />
 </p>
-</h1>
+
+
 ---
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
