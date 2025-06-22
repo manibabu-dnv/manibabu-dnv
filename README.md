@@ -92,8 +92,8 @@
 
   <!-- Gmail -->
   <a href="mailto:d.n.v.manibabu@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="70" alt="Gmail" />
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="70" alt="Gmail" />
+</a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/qr/5BV5CIZFTT4MC1" target="_blank">
