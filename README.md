@@ -10,6 +10,9 @@
 
 <!-- RGB Line -->
 <!-- Top RGB Line -->
+<!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
+
+<!-- Top RGB Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 
 <!-- Name Badge -->
@@ -17,28 +20,27 @@
   <img src="https://img.shields.io/badge/Hey%20I'm%20Manibabu%20DNV-✨-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- Typing Intro Text and Bottom RGB Line (merged tightly) -->
+<!-- Typing Intro Text and Bottom RGB Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&height=45&lines=Creative+Coder+%E2%9C%A8;Cloud+%26+Data+Explorer+%F0%9F%9A%80;DevOps+Lover+%E2%9A%99%EF%B8%8F;Design+Driven+Engineer+%F0%9F%8E%A8;Storytelling+with+Data+%F0%9F%93%8A" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&height=45&lines=Creative+Coder+%E2%9C%A8;Cloud+%26+Data+Explorer+%F0%9F%9A%80;DevOps+Lover+%E2%9A%99%EF%B8%8F;Design+Driven+Engineer+%F0%9F%8E%A8;Storytelling+with+Data+%F0%9F%93%8A" />
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="0.5" align="center" />
 </p>
 
-<!-- Profile View Counter -->
+<!-- Profile View Counter (no line below) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manibabu-dnv&label=Profile%20Views&color=2ECf49&style=flat" alt="Profile Views" width="120" height="20" />
 </p>
 
+<!-- ✅ Removed the horizontal line (---) that was below this -->
 
----
-
+<!-- Continue with next section -->
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="380" height="320" align="right">
   <div>
     <h3>🚀 Who Am I?</h3>
     <ul>
-      <li> A tech enthusiast blending <strong>code, cloud, and creativity 🎯</strong></li>
-      <li> Currently crafting interactive dashboards, automation pipelines & data projects🔨</li>
-      <li> Working across domains like <strong>Full Stack, DevOps, and Big Data 🌐</strong></li>
+      <li> A tech enthusiast blending <strong>code, AI, cloud, and creativity 🎯</strong></li>
+      <li> Currently crafting interactive dashboards, AI automation pipelines, & data projects🔨</li>
+      <li> Working across domains like <strong>Software, AI/ML, Full Stack, DevOps, and Big Data 🌐</strong></li>
       <li> Passionate about tools like <strong>Docker, Hive, Jenkins, Tableau, and Linux 📦</strong></li>
       <li> Self-driven learner always experimenting with real-world datasets and designs🎓</li>
       <li> Reach me at: <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com 📫</a></li>
