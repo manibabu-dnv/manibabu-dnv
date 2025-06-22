@@ -84,6 +84,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 
 
+
+
+### 🌐 Connect with Me
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/manibabu-dnv" target="_blank">
@@ -92,8 +95,8 @@
 
   <!-- Gmail -->
   <a href="mailto:d.n.v.manibabu@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="70" alt="Gmail" />
-</a>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="70" alt="Gmail" />
+  </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/qr/5BV5CIZFTT4MC1" target="_blank">
@@ -104,6 +107,7 @@
   <a href="https://instagram.com/mbixel.design" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="70" alt="Instagram" />
   </a>
+
 </p>
 
 <!-- Bottom RGB Line -->
@@ -113,7 +117,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manibabu-dnv&theme=gruvbox&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manibabu-dnv&theme=gruvbox&column=7&margin-w=15&title=Stars,Experience,Followers,Repositories,Commits,PullRequest,MultiLanguage,Reviews,Contributed" />
+</p>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
