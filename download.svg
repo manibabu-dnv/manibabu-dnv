@@ -26,7 +26,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-             Data Science Enthusiast 🚀 
+                 Data Science Enthusiast 🚀 
         </textPath>
     </text>
         <path id='path1'>
@@ -40,7 +40,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            Aspiring Web Developer 💻 
+                Aspiring Web Developer 💻 
         </textPath>
     </text>
         <path id='path2'>
@@ -54,7 +54,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path2'>
-            DevOps Engineer in the Making 🐳 
+                DevOps Engineer in the Making 🐳 
         </textPath>
     </text>
         <path id='path3'>
@@ -68,7 +68,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path3'>
-            From India 🌍 
+                From India 🌍 
         </textPath>
     </text>
 </svg>
