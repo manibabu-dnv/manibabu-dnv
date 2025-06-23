@@ -62,26 +62,50 @@
 
 <!-- Top Skill Row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,mysql,git,docker,kubernetes,linux" />
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://en.wikipedia.org/wiki/Kubernetes" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
 </p>
 
 <!-- Second Row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,figma,photoshop,jenkins" />
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://en.wikipedia.org/wiki/Eclipse_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=eclipse" /></a>
+  <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://en.wikipedia.org/wiki/Figma_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" /></a>
+  <a href="https://en.wikipedia.org/wiki/Jenkins_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
 
   <!-- Hadoop -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" style="margin-left: 10px;" />
+  <a href="https://en.wikipedia.org/wiki/Apache_Hadoop" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" />
+  </a>
 
-  
-
-  <!-- Tableau (compact & official) -->
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48" alt="Tableau" />
+  <!-- Tableau -->
+  <a href="https://en.wikipedia.org/wiki/Tableau_Software" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48" alt="Tableau" />
+  </a>
 
   <!-- Canva -->
-  <img src="https://img.icons8.com/color/48/000000/canva.png" width="48" height="48" alt="Canva" />
+  <a href="https://en.wikipedia.org/wiki/Canva" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/canva.png" width="48" height="48" alt="Canva" />
+  </a>
+  <!-- PostgreSQL -->
+<a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+</a>
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
+
 
 
 
