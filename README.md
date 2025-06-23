@@ -1,36 +1,20 @@
 <!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
-
-<!--<p align="center">
-  <img src="https://img.shields.io/badge/Hey%20I'm%20Manibabu%20DNV-✨-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
-
-<!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
-
-<!-- RGB Line -->
-<!-- Top RGB Line -->
-<!-- 🌈 Stylish and Interactive GitHub Profile README for Manibabu DNV -->
-
-<!-- Top RGB Line -->
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
-
 <!-- Name Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Hey%20I'm%20Manibabu%20DNV-✨-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://github.com/manibabu-dnv/manibabu-dnv/blob/main/download.svg"/>
+  <img src="https://github.com/manibabu-dnv/manibabu-dnv/blob/main/download.svg" />
 </p>
-<!-- Typing Intro Text and Bottom RGB Line -->
-
-
-<!-- Profile View Counter (no line below) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
+<!-- Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manibabu-dnv&label=Profile%20Views&color=2ECf49&style=flat" alt="Profile Views" width="120" height="20" />
 </p>
+
 
 <table>
   <tr>
@@ -54,14 +38,10 @@
   </tr>
 </table>
 
-
-<!-- Bottom RGB line after About section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
-
+---
 
 ### 🧰 Tech Toolbox
 
-<!-- Top Skill Row -->
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
@@ -75,7 +55,6 @@
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
 </p>
 
-<!-- Second Row -->
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://en.wikipedia.org/wiki/Eclipse_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=eclipse" /></a>
@@ -83,67 +62,31 @@
   <a href="https://en.wikipedia.org/wiki/Figma_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
   <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" /></a>
   <a href="https://en.wikipedia.org/wiki/Jenkins_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
-
-  <!-- Hadoop -->
-  <a href="https://en.wikipedia.org/wiki/Apache_Hadoop" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" />
-  </a>
-
-  <!-- Tableau -->
-  <a href="https://en.wikipedia.org/wiki/Tableau_Software" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48" alt="Tableau" />
-  </a>
-
-  <!-- Canva -->
-  <a href="https://en.wikipedia.org/wiki/Canva" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/canva.png" width="48" height="48" alt="Canva" />
-  </a>
-  <!-- PostgreSQL -->
-<a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-</a>
-
+  <a href="https://en.wikipedia.org/wiki/Apache_Hadoop" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" /></a>
+  <a href="https://en.wikipedia.org/wiki/Tableau_Software" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48" alt="Tableau" /></a>
+  <a href="https://en.wikipedia.org/wiki/Canva" target="_blank"><img src="https://img.icons8.com/color/48/000000/canva.png" width="48" height="48" alt="Canva" /></a>
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
-
-
-
-
+---
 
 ### 🌐 Connect with Me
+
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/manibabu-dnv" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="70" alt="LinkedIn" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:d.n.v.manibabu@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="70" alt="Gmail" />
-  </a>
-
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/mbixel.design" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="70" alt="Instagram" />
-  </a>
-
+  <a href="https://linkedin.com/in/manibabu-dnv" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="70" alt="LinkedIn" /></a>
+  <a href="mailto:d.n.v.manibabu@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="70" alt="Gmail" /></a>
+  <a href="https://instagram.com/mbixel.design" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="70" alt="Instagram" /></a>
 </p>
 
-<!-- Bottom RGB Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
-
+---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manibabu-dnv&theme=gruvbox&column=7&margin-w=15&title=Stars,Experience,Followers,Repositories,Commits,PullRequest,MultiLanguage,Reviews,Contributed" />
 </p>
-</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
-
+---
 
 ### 🚀 Featured Projects
 
@@ -157,8 +100,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
-
+---
 
 ### 📈 GitHub Stats & Activity
 
@@ -171,7 +113,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manibabu-dnv&theme=tokyonight" height="170"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
+---
 
 ### 🐍 My GitHub Contribution Snake
 
@@ -181,7 +123,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/manibabu-dnv/manibabu-dnv/output/github-snake.svg" />
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
+---
 
 ### 🎨 Activity Graph
 
@@ -189,10 +131,7 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manibabu-dnv&theme=react&area=true&area_color=FF00FF&color=00FFFF&point=FFFFFF&line=00FFD1" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
-
-
-
+---
 
 ### 💬 Quote of the Day
 
