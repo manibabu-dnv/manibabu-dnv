@@ -98,10 +98,6 @@
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="70" alt="Gmail" />
   </a>
 
-  <!-- WhatsApp -->
-  <a href="https://wa.me/qr/5BV5CIZFTT4MC1" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="70" alt="WhatsApp" />
-  </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/mbixel.design" target="_blank">
