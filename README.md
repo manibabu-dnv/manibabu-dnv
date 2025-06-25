@@ -25,7 +25,7 @@
         <li> My recent project was <a href="https://github.com/manibabu-dnv/manibabu-dnv">Manibabu_dnv-Portfolio</a>🔭</li>
       <li> I’m currently learning <b> DevOps Tools, SpringBoot, Advanced DSA 🌱</b></li>
       <li> I’m looking to collaborate with <b> Entrepreneurs & Data Scientists 👯</b></li>
-         <li> View my Résumé: <a href="https://5bc15fbc-58d2-4bac-a63c-71481c9ef482.filesusr.com/ugd/3b9637_4b45e23d018f4d30b1617cb3a0472f7d.pdf"> Get it from here</a>📄</li>
+         <li> View my Résumé: <a href="https://5bc15fbc-58d2-4bac-a63c-71481c9ef482.filesusr.com/ugd/3b9637_f36554aa2a4f4b47992f4c840ffda698.pdf"> Get it from here</a>📄</li>
       <li> All of my projects are available at <a href="https://github.com/Satish-970">GitHub</a>👨‍💻</li>
       <!---<li>📝 I regularly write articles on <a href="https://satishportfolio.blogspot.com/">My Blog</a></li>--->
       <li> Reach me at <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com</a>📫</li>
