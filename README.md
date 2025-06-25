@@ -7,7 +7,7 @@
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://github.com/manibabu-dnv/manibabu-dnv/blob/main/download.svg" />
+  <img src="https://github.com/manibabu-dnv/manibabu-dnv_Portfolio/blob/main/download.svg" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 <!-- Profile View Counter -->
@@ -22,7 +22,7 @@
     <td width="60%" valign="top">
       <h3>🚀 Who Am I?</h3>
       <ul>
-        <li> My recent project was <a href="https://github.com/manibabu-dnv/manibabu-dnv">Manibabu_dnv-Portfolio</a>🔭</li>
+        <li> My recent project was <a href="https://github.com/manibabu-dnv/manibabu-dnv_Portfolio">Manibabu_dnv-Portfolio</a>🔭</li>
       <li> I’m currently learning <b> DevOps Tools, SpringBoot, Advanced DSA 🌱</b></li>
       <li> I’m looking to collaborate with <b> Entrepreneurs & Data Scientists 👯</b></li>
          <li> View my Résumé: <a href="https://5bc15fbc-58d2-4bac-a63c-71481c9ef482.filesusr.com/ugd/3b9637_4b45e23d018f4d30b1617cb3a0472f7d.pdf"> Get it from here</a>📄</li>
@@ -121,9 +121,9 @@
 ### 🐍 My GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manibabu-dnv/manibabu-dnv/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manibabu-dnv/manibabu-dnv/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/manibabu-dnv/manibabu-dnv/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manibabu-dnv/manibabu-dnv_Portfolio/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manibabu-dnv/manibabu-dnv_Portfolio/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manibabu-dnv/manibabu-dnv_Portfolio/output/github-snake.svg" />
 </picture>
 
 ---
