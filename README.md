@@ -86,9 +86,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manibabu-dnv&theme=gruvbox&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manibabu-dnv&theme=gruvbox&column=7&margin-w=15&title=Stars,Followers,Repositories" />
 </p>
-
 
 
 ---
