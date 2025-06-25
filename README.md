@@ -22,13 +22,16 @@
     <td width="60%" valign="top">
       <h3>🚀 Who Am I?</h3>
       <ul>
-        <li>A tech enthusiast blending <strong>code, AI, cloud, and creativity 🎯</strong></li>
-        <li>Currently crafting interactive dashboards, AI automation pipelines, & data projects 🔨</li>
-        <li>Working across domains like <strong>Software, AI/ML, Full Stack, DevOps, and Big Data 🌐</strong></li>
-        <li>Passionate about tools like <strong>Docker, Hive, Jenkins, Tableau, and Linux 📦</strong></li>
-        <li>Self-driven learner always experimenting with real-world datasets and designs 🎓</li>
-        <li>Reach me at: <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com 📫</a></li>
-        <li>Fun fact: I automate things not just for efficiency, but for fun! ⚡😎 </li>
+        <li> My recent project was <a href="https://github.com/manibabu-dnv/manibabu-dnv">Manibabu_dnv-Portfolio</a>🔭</li>
+      <li> I’m currently learning <b> DevOps Tools, SpringBoot, Advanced DSA 🌱</b></li>
+      <li> I’m looking to collaborate with <b> Entrepreneurs & Data Scientists 👯</b></li>
+         <li> View my Résumé: <a href="https://5bc15fbc-58d2-4bac-a63c-71481c9ef482.filesusr.com/ugd/3b9637_4b45e23d018f4d30b1617cb3a0472f7d.pdf"> Get it from here</a>📄</li>
+      <li> All of my projects are available at <a href="https://github.com/Satish-970">GitHub</a>👨‍💻</li>
+      <!---<li>📝 I regularly write articles on <a href="https://satishportfolio.blogspot.com/">My Blog</a></li>--->
+      <li> Reach me at <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com</a>📫</li>
+        <li>Ask me about <b>Java, R, Tableau, DevOps💬</b></li>
+      <li>⚡Fun fact: <b>Mistakes can be useful !!!</b></li>
+      <li>⚡I automate things not just for efficiency, but to build!</li>
       </ul>
     </td>
     <!-- GIF Column -->
