@@ -78,7 +78,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/manibabu-dnv" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="70" alt="LinkedIn" /></a>
   <a href="mailto:d.n.v.manibabu@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="70" alt="Gmail" /></a>
-  <a href="https://instagram.com/mbixel.design" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="70" alt="Instagram" /></a>
+  <a href="https://instagram.com/manibabu.design" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="70" alt="Instagram" /></a>
 </p>
 
 ---
