@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github.com/manibabu-dnv/manibabu-dnv/blob/main/download.svg" />
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 <!-- Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manibabu-dnv&label=Profile%20Views&color=2ECf49&style=flat" alt="Profile Views" width="120" height="20" />
