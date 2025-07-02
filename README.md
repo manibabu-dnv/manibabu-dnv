@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github.com/manibabu-dnv/manibabu-dnv/blob/main/download.svg" />
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 <!-- Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manibabu-dnv&label=Profile%20Views&color=2ECf49&style=flat" alt="Profile Views" width="120" height="20" />
@@ -25,7 +25,7 @@
         <li> My recent project was <a href="https://github.com/manibabu-dnv/manibabu-dnv">Manibabu_dnv-Portfolio</a>🔭</li>
       <li> I’m currently learning <b> DevOps Tools, SpringBoot, Advanced DSA 🌱</b></li>
       <li> I’m looking to collaborate with <b> Entrepreneurs & Data Scientists 👯</b></li>
-         <li> View my Résumé: <a href="https://5bc15fbc-58d2-4bac-a63c-71481c9ef482.filesusr.com/ugd/3b9637_150f5730aa974244881f5c6d33de20f5.pdf"> Get it from here</a>📄</li>
+         <li> View my Résumé: <a href="https://5bc15fbc-58d2-4bac-a63c-71481c9ef482.filesusr.com/ugd/3b9637_f36554aa2a4f4b47992f4c840ffda698.pdf"> Get it from here</a>📄</li>
       <li> All of my projects are available at <a href="https://github.com/manibabu-dnv?tab=repositories">GitHub</a>👨‍💻</li>
       <li> Reach me at <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com</a>📫</li>
         <li>Ask me about <b>Java, R, Tableau, DevOps💬</b></li>
@@ -35,7 +35,7 @@
     </td>
     <!-- GIF Column -->
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="260" alt="coding gif" />
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" height="260" alt="coding gif" />
     </td>
   </tr>
 </table>
