@@ -65,7 +65,7 @@
     </td>
     <!-- GIF Column -->
     <td width="40%" align="center">
-      <img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE0NzMwNDYsIm5iZiI6MTc1MTQ3Mjc0NiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzAyVDE2MTIyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmOTRmOGE0NzQzNTBkODNjMzRmMDUyMjYwY2EwOTNiMGNiYmY1Y2RlNGU4ZTZkMzMyMmNhMzc2OGYzZWVjYzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.t51guCyBwAjO49c3L0ngia_GLvYtZtdDdKH32mTbUoM" width="100%" height="260" alt="coding gif" />
+      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" height="260" alt="coding gif" />
     </td>
   </tr>
 </table>
