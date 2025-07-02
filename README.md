@@ -23,7 +23,7 @@
       <h3>🚀 Who Am I?</h3>
       <ul>
         <li> My recent project was <a href="https://github.com/manibabu-dnv/manibabu-dnv">Manibabu_dnv-Portfolio</a>🔭</li>
-      <li> I’m currently learning <b> DevOps Tools, SpringBoot, Advanced DSA 🌱</b></li>
+      <li> Currently learning <b> DevOps Tools, SpringBoot, Advanced DSA 🌱</b></li>
       <li> I’m looking to collaborate with <b> Entrepreneurs & Data Scientists 👯</b></li>
          <li> View my Résumé: <a href="https://5bc15fbc-58d2-4bac-a63c-71481c9ef482.filesusr.com/ugd/3b9637_f36554aa2a4f4b47992f4c840ffda698.pdf"> Get it from here</a>📄</li>
       <li> All of my projects are available at <a href="https://github.com/manibabu-dnv?tab=repositories">GitHub</a>👨‍💻</li>
