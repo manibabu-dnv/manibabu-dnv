@@ -35,7 +35,7 @@
     </td>
     <!-- GIF Column -->
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" height="260" alt="coding gif" />
+      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" height="260" alt="coding gif" />
     </td>
   </tr>
 </table>
