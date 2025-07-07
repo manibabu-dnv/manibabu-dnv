@@ -118,10 +118,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=manibabu-dnv&theme=gruvbox&column=7&margin-w=15&title=Commits,Repositories,Experience,Stars,Followers,PullRequest,Reviews" />
 </p>
 
-
-
-
-
 ---
 
 ### 🚀 Featured Projects
@@ -132,7 +128,7 @@
 |----------|----------------|---------------|
 | 🎮 [Tic Tac Toe Game](https://github.com/manibabu-dnv/tic-tac-toe) | Java GUI Game with pop-up animation and player highlights | Java, Swing |
 | 📊 [Hadoop Word Count](https://github.com/manibabu-dnv/hadoop-wordcount) | MapReduce implementation for word frequency analysis | Java, HDFS |
-| 🐳 [Docker Swarm App](https://github.com/manibabu-dnv/docker-swarm-app) | Microservices using Docker Swarm with CI/CD integration | Docker, Jenkins |
+| 🐳 [Actions-Jenkins-Docker_Automation](https://github.com/manibabu-dnv/Actions-Jenkins-Docker_Automation) | Fully automated CI/CD pipeline for a static web application | Docker, Jenkins |
 
 </div>
 
