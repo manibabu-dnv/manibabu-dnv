@@ -58,7 +58,7 @@
          <li> View my Résumé: <a href="https://5bc15fbc-58d2-4bac-a63c-71481c9ef482.filesusr.com/ugd/3b9637_f36554aa2a4f4b47992f4c840ffda698.pdf"> Get it from here</a>📄</li>
       <li> All of my projects are available at <a href="https://github.com/manibabu-dnv?tab=repositories">GitHub</a>👨‍💻</li>
       <li> Reach me at <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com</a>📫</li>
-        <li>Ask me about <b>Java, R, Tableau, DevOps💬</b></li>
+        <li>Ask me about <b>Java, R, Tableau, Power BI, DevOps💬</b></li>
       <li>⚡Fun fact: <b>Mistakes can be useful !!!</b></li>
       <li>⚡I automate things not just for efficiency, but to build!</li>
       </ul>
