@@ -55,7 +55,7 @@
         <li> My recent project was <a href="https://github.com/manibabu-dnv/manibabu-dnv">Manibabu_dnv-Portfolio</a>🔭</li>
       <li> Currently learning <b> DevOps Tools, SpringBoot, Advanced DSA🌱</b></li>
       <li> I’m looking to collaborate with <b> Entrepreneurs & Data Scientists 👯</b></li>
-         <li> View my Résumé: <a href="https://5bc15fbc-58d2-4bac-a63c-71481c9ef482.filesusr.com/ugd/3b9637_f36554aa2a4f4b47992f4c840ffda698.pdf"> Get it from here</a>📄</li>
+         <li> View my Résumé: <a href="https://5bc15fbc-58d2-4bac-a63c-71481c9ef482.filesusr.com/ugd/3b9637_150f5730aa974244881f5c6d33de20f5.pdf"> Get it from here</a>📄</li>
       <li> All of my projects are available at <a href="https://github.com/manibabu-dnv?tab=repositories">GitHub</a>👨‍💻</li>
       <li> Reach me at <a href="mailto:d.n.v.manibabu@gmail.com">d.n.v.manibabu@gmail.com</a>📫</li>
         <li>Ask me about <b>Java, R, Tableau, Power BI, DevOps💬</b></li>
