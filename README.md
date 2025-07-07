@@ -126,7 +126,7 @@
 
 | ⭐ Project | 🚀 Description | ⚙️ Tech Stack |
 |----------|----------------|---------------|
-| 🎮 [Tic Tac Toe Game](https://github.com/manibabu-dnv/tic-tac-toe) | Java GUI Game with pop-up animation and player highlights | Java, Swing |
+| 🎮 [Student-Stress-and-Academic-Performance-Prediction](https://github.com/manibabu-dnv/Student-Stress-and-Academic-Performance-Prediction) |  Use of Machine Learning algorithms to predict student lifestyle | R, ML |
 | 📊 [Hadoop Word Count](https://github.com/manibabu-dnv/hadoop-wordcount) | MapReduce implementation for word frequency analysis | Java, HDFS |
 | 🐳 [Actions-Jenkins-Docker_Automation](https://github.com/manibabu-dnv/Actions-Jenkins-Docker_Automation) | Fully automated CI/CD pipeline for a static web application | Docker, Jenkins |
 
