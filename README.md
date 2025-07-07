@@ -127,7 +127,7 @@
 | ⭐ Project | 🚀 Description | ⚙️ Tech Stack |
 |---------------|----------------|---------------|
 | 🎮 [Student Stress & Academic Performance Prediction](https://github.com/manibabu-dnv/Student-Stress-and-Academic-Performance-Prediction) |  Use of Machine Learning algorithms to predict student lifestyle | R, ML |
-| 📊 [Data Science Job Salaries dashboard](https://github.com/manibabu-dnv/tableu-project_and_files) | MapReduce implementation for word frequency analysis | Java, HDFS |
+| 📊 [Data Science Job Salaries dashboard](https://github.com/manibabu-dnv/tableu-project_and_files) | MapReduce implementation for word frequency analysis | Tableau |
 | 🐳 [Actions-Jenkins-Docker_Automation](https://github.com/manibabu-dnv/Actions-Jenkins-Docker_Automation) | Fully automated CI/CD pipeline for a static web application | Docker, Jenkins |
 
 </div>
